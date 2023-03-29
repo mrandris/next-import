@@ -11,6 +11,9 @@
   "dependencies": {
     "next": "13.2.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "bootstrap": "^5.3.0-alpha1",
+    "@iblcomponents/ibl-light-dark-theme": "^0.1.4",
+    "sass": "^1.55.0"
   }
 }
